@@ -1,0 +1,66 @@
+
+.muu{
+    opacity: 0.5;
+}
+.cc{
+    background-color: lightgreen;
+}
+
+.ccc{
+    background-color: rgb(21, 129, 129);
+}
+
+.kuu{
+    /* border: thin solid black; */
+    height: 250px;
+    width: 250px;
+    position: relative;
+    /* margin-top: 500px; */
+    bottom: 50px;
+    margin-bottom: 20px;
+    background-color: rgb(21, 129, 129);
+}
+.suu{
+    opacity: 0.5;
+}
+.name{
+    background-image:url("./Images/cta-bg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+    padding: 100px;
+    text-align: center;
+    
+    
+
+}
+.lii{
+    text-decoration: none;
+}
+.gg{
+    border: thin solid white;
+}
+.ggg{
+    height: 550px;
+    border: thin solid black;
+}
+.bor{
+    border: thin solid rgb(3, 117, 102);
+    
+    padding: 30px;
+}
+.boo{
+    border: 10px solid  rgb(3, 117, 102);
+    background-color: rgb(2, 153, 133);
+}
+.ti{
+    opacity: 0.5;
+}
+.mill{
+    background-color: rgb(3, 117, 102);
+}
+.li{
+    box-shadow: 5px 5px 5px 5px;
+}
